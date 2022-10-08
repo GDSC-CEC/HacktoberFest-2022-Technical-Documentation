@@ -7,3 +7,17 @@ You have to write a Technical Documentation on the above topic
 - We will only accept 10 Pull Requests in this repository.
 - You can't make multiple Pull Requests for the same theme.
 - Your file name shoul be in this format: `YourGithubUsername.md`. eg. ShaileshKumar007.md
+
+## Acknowledgments
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [GitHub](https://github.com)
+- [Git](https://git-scm.com/)
+
+## Maintainer
+- [Shailesh](https://github.com/ShaileshKumar007)
+
+## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
+
+## Happy Coding! :smile:
+
