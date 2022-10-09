@@ -15,7 +15,7 @@ Hacktoberfest welcomes people of any experience level to participate, and Low-Co
 
 This repo is aimed at people who are new to Open-Source, earn and learn from that experience.
 
-This repository is based on Technical Documentation. We encourage students to write a documentation on the themes that we have given and make a PR for that in the respective folder of the themes.
+This repository is based on Technical Documentation. We encourage students to write a documentation on the themes that we have given and make a PR for that.
 
 ## How to contibute your Documentation?
 - You have to write a Documentation on any of the given themes.
