@@ -49,8 +49,11 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_O
 If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project and help others to find it.
 
 
-## Conclusion
+## Maintainer
+- [Shailesh](https://github.com/ShaileshKumar007)
 
+
+## Conclusion
 - Happy Contributing! 🎉 
 - May you have a great Hacktoberfest 2022! 🎉
 - If you have any questions, feel free to ask me. I will be happy to help you. 😊
