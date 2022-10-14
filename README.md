@@ -31,6 +31,7 @@ This repository is based on Technical Documentation. We encourage students to wr
 - Responsiveness and Animation in Web Development 
 - User Interface and User Experience (UI/UX) 
 - Version Control System (Git/GitHub) 
+- Blockchain/Smart Contracts
 
 ## Guidelines to be followed while writing Documentation
 - Minimum words of your blog should be 400.
