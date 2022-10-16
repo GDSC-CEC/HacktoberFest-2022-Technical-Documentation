@@ -29,7 +29,7 @@ The following client-server diagram shows the basics of of the architecture:
 2. Easily Accessible – Clients can log into the system regardless of their location or their platform of choice, allowing each employee to access their corporate information without having to use a terminal mode or a processor.
 3. Servers are Scalable –  A client-server network is highly scalable. Whenever the user needs, they can add more resources such as clients and servers, thus increasing the size of the server without any interruption. Due to the fact that the server is centralized, permission to network resources is not an issue, so very few staff members are required for configurations even if the size increases.
 4. Centralized Control – Client-server networks have the advantage of centralized control since all information is stored in a single location. Since the network administrator has full control over management and administration, this is especially beneficial. As a result, any problems that arise throughout the entire network can be solved from one central location. As a result, it has also become much easier to update data and resources.
-5. Security – Due to its centralized architecture, client-server networks protect data well. A single backup can be used to recover all of the files if the data are lost, such as imposing credentials like username and passwords. Another method of enforcing access controls is imposing credentials like username and password.
+
 
 ## Disadvantages of Client-Server Architecture
 1. Less Robust – Due to client-server networks’ centralized nature, in case the main server undergoes failure or interference, the entire network will be interrupted. Thus, client-server networks are less robust.
