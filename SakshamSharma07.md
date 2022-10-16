@@ -24,15 +24,15 @@ Both the client and server computers need a complete stack of protocols. The tra
 The following client-server diagram shows the basics of of the architecture:
 ![client-server architecture](https://www.simplilearn.com/ice9/free_resources_article_thumb/Client_Server_Architecture_1.png)
 
-## Advantages of Client-Server model:
-Centralized system with all data in a single place.
-Cost efficient requires less maintenance cost and Data recovery is possible.
-The capacity of the Client and Servers can be changed separately.
+## Advantages of Client-Server Architecture:
+1. Centralized system with all data in a single place.
+2. Cost efficient requires less maintenance cost and Data recovery is possible.
+3. The capacity of the Client and Servers can be changed separately.
 
-## Disadvantages of Client-Server model:
-Clients are prone to viruses, Trojans and worms if present in the Server or uploaded into the Server.
-Server are prone to Denial of Service (DOS) attacks.
-Data packets may be spoofed or modified during transmission.
-Phishing or capturing login credentials or other useful information of the user are common and MITM(Man in the Middle) attacks are common.
+## Disadvantages of Client-Server Architecture:
+1. Clients are prone to viruses, Trojans and worms if present in the Server or uploaded into the Server.
+2. Server are prone to Denial of Service (DOS) attacks.
+3. Data packets may be spoofed or modified during transmission.
+4. Phishing or capturing login credentials or other useful information of the user are common and MITM(Man in the Middle) attacks are common.
 
 
